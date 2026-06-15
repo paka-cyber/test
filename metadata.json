@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Chemical Reaction Simulator",
+  "description": "High-precision 3D molecular grid and virtual chemical reaction simulator powered by Gemini API, complete with a 3D SVG atomic spatial lattice and dynamic potential energy barrier transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
